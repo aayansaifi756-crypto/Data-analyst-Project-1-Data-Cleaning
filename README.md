@@ -66,6 +66,12 @@ The workbook contains the cleaned dataset along with the analysis performed duri
 - Learned how to standardize date and text formats.
 - Prepared a cleaned dataset for further data analysis.
 
+- ## 📸 Project Screenshot
+
+Below is a preview of the final cleaned dataset prepared during the project.
+
+![Project 1 – Final Cleaned Data](Cleaned_sales_data_png.png)
+
 ## ✅ Project Status
 
 **Completed**
